@@ -25,7 +25,7 @@ const tecnologia = [
         nome: "GIT"
     },
     palavra008 = {
-        nome: "VISUALCODE"
+        nome: "VISUAL STUDIO CODE"
     },
     palavra009 = {
         nome: "SUBLIME"
