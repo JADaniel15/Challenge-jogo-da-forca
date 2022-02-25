@@ -31,7 +31,7 @@ const tecnologia = [
         nome: "SUBLIME"
     },
     palavra010 = {
-        nome: "ANDORIDSTUDIO"
+        nome: "ANDROIDSTUDIO"
     },
 
 ];
